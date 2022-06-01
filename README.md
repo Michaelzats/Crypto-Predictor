@@ -1,3 +1,1 @@
-The code used to present claculations and data Analysis in the bachelor dissertation 
-
-
+Bitcoin is a cryptocurrency that has become a popular stock market investment. A variety of risk factors influence the stock market. Moreover, bitcoin is a cryptocurrency that has been steadily rising in recent years, with occasional sharp drops without any apparent impact on the stock market. Because of the volatility, there is a demand for an automated technique to forecast bitcoins on the share market. LSTM (Long Short- Term Memory) is another module supplied for RNN that was later developed and adopted by many researchers. Like RNN, the LSTM likewise comprises the module with recurrent consistency, which favours the measurement and analysis of closing prices for bitcoins as conducted in this research.
